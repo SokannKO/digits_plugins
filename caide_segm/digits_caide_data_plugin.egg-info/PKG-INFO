@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: digits-caide-data-plugin
+Version: 0.0.1
+Summary: Dataset plugin for CAIDE systems Segmentation
+Home-page: UNKNOWN
+Author: Seokhwan Ko
+Author-email: UNKNOWN
+License: Apache
+Description: __author__ = 'SEOKHWAN KO'
+        
+Platform: UNKNOWN

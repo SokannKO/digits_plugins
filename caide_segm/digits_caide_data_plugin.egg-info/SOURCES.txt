@@ -1,0 +1,12 @@
+MANIFEST.in
+README
+digitsDataPluginCaide/__init__.py
+digitsDataPluginCaide/data.py
+digitsDataPluginCaide/forms.py
+digitsDataPluginCaide/interface.py
+digitsDataPluginCaide/template.html
+digits_caide_data_plugin.egg-info/PKG-INFO
+digits_caide_data_plugin.egg-info/SOURCES.txt
+digits_caide_data_plugin.egg-info/dependency_links.txt
+digits_caide_data_plugin.egg-info/entry_points.txt
+digits_caide_data_plugin.egg-info/top_level.txt
